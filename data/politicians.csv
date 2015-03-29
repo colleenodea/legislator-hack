@@ -1,0 +1,121 @@
+politician_id,Senate/Assembly,Name,Affiliation,District,City,State,Phone
+1,S,Dawn Marie Addiego,R,8,Medford,NJ,(609) 654-1498
+2,S,Diane B. Allen ,R,7,Cinnaminson,NJ,(856) 314-8835
+3,S,"Peter J. Barnes, III ",D,18,Edison,NJ,(732) 548-1406
+4,S,Christopher  Bateman ,R,16,Somerville,NJ,(908) 526-3600
+5,S,James  Beach,D,6,Cherry Hill,NJ,(856) 429-1572
+6,S,Jennifer Beck,R,11,Red Bank,NJ,(732) 933-1591
+7,S,Anthony R. Bucco ,R,25,Denville,NJ,(973) 627-9700
+8,S,Gerald  Cardinale,R,39,Haskell,NJ,(862) 248-0491
+9,S,Richard J. Codey ,D,27,Livingston,NJ,(973) 535-5017
+10,S,Christopher J. Connors,R,9,Forked River,NJ,(609) 693-6700
+11,S,Nilsa  Cruz-Perez ,D,5,Audubon,NJ,(856) 547-4800
+12,S,Sandra B. Cunningham,D,31,Jersey City,NJ,(201) 451-5100
+13,S,Michael J. Doherty,R,23,Washington,NJ,(908) 835-0552
+14,S,"Nia H. Gill, Esq.",D,34,Montclair,NJ,(973) 509-0388
+15,S,Robert M. Gordon,D,38,Fair Lawn,NJ,(201) 703-9779
+16,S,Linda R. Greenstein,D,14,Cranbury,NJ,(609) 395-9911
+17,S,James W. Holzapfel ,R,10,Brick,NJ,(732) 840-9028
+18,S,"Thomas H. Kean, Jr. ",R,21,Westfield,NJ,(908) 232-3673
+19,S,"Joseph M. Kyrillos, Jr.",R,13,Red Bank,NJ,(732) 671-3206
+20,S,Raymond J. Lesniak ,D,20,Union,NJ,(908) 624-0880
+21,S,"Fred H. Madden, Jr. ",D,4,Turnersville,NJ,(856) 232-6700
+22,S,Kevin J. O'Toole,R,40,Wayne,NJ,(973) 237-1360
+23,S,Steve Oroho,R,24,Sparta,NJ,(973) 300-0200
+24,S,Joseph  Pennacchio,R,26,Montville,NJ,(973) 227-4012
+25,S,Nellie  Pou ,D,35,Paterson,NJ,(973) 247-1555
+26,S,Ronald Rice,D,28,Newark,NJ,(973) 371-5665
+27,S,M. Teresa Ruiz ,D,29,Newark,NJ,(973) 484-1000
+28,S,Nicholas J. Sacco,D,32,North Bergen,NJ,(201) 295-0200
+29,S,Paul A. Sarlo ,D,36,Wood-Ridge,NJ,(201) 804-8118
+30,S,Nicholas P. Scutari,D,22,Linden,NJ,(908) 587-0404
+31,S,Robert W. Singer ,R,30,Lakewood,NJ,(732) 987-5669
+32,S,Bob  Smith,D,17,Piscataway,NJ,(732) 752-0770
+33,S,Brian P. Stack,D,33,Jersey City,NJ,(201) 721-5263
+34,S,Stephen M. Sweeney,D,3,West Deptford,NJ,(856) 251-9801
+35,S,Samuel D. Thompson,R,12,Old Bridge,NJ,(732) 607-7580
+36,S,Shirley K. Turner,D,15,Ewing Twp,NJ,(609) 323-7239
+37,S,Jeff  Van Drew,D,1,Cape May Court House,NJ,(609) 465-0700
+38,S,Joseph F. Vitale ,D,19,Woodbridge,NJ,(732) 855-7441
+39,S,Loretta  Weinberg ,D,37,Teaneck,NJ,(201) 928-0100
+40,S,Jim  Whelan,D,2,Northfield,NJ,(609) 383-1388
+41,A,Bob  Andrzejczak ,D,1,Cape May Court House,NJ,(609) 465-0700
+42,A,Mary Pat Angelini ,R,11,Ocean,NJ,(732) 531-1045
+43,A,Robert  Auth,R,39,Haskell,NJ,(862) 248-0491
+44,A,Daniel R. Benson ,D,14,Hamilton Square,NJ,(609) 631-0198
+45,A,Jon M. Bramnick,R,21,Westfield,NJ,(908) 232-2073
+46,A,Chris A. Brown,R,2,Linwood,NJ,(609) 677-8266
+47,A,Christopher J. Brown ,R,8,Medford,NJ,(609) 654-1498
+48,A,Anthony M. Bucco ,R,25,Randolph,NJ,(973) 927-2526
+49,A,John J. Burzichelli ,D,3,West Deptford,NJ,(856) 251-9801
+50,A,Ralph R. Caputo ,D,28,Belleville,NJ,(973) 450-0484
+51,A,Marlene  Caride D,D,36,Ridgefield,NJ,(201) 943-0615
+52,A,Michael Patrick Carroll ,R,25,Morris Plains,NJ,(973) 539-8113
+53,A,Caroline  Casagrande,R,11,Freehold,NJ,(732) 866-1695
+54,A,Jack M. Ciattarelli,R,16,Somerville,NJ,(908) 450-7064
+55,A,Robert D. Clifton,R,12,Millstone,NJ,(732) 446-3408
+56,A,"Herb  Conaway, Jr. ",D,7,Delran,NJ,(856) 461-3997
+57,A,Craig J. Coughlin,D,19,Woodbridge,NJ,(732) 855-7441
+60,A,Ronald S. Dancer,R,12,Cream Ridge,NJ,(609) 758-0205
+61,A,Joe  Danielsen,D,17,Somerset,NJ,(732) 247-3999
+62,A,Wayne P. DeAngelo ,D,14,Hamilton,NJ,(609) 631-7501
+63,A,BettyLou  DeCroce,R,26,Parsippany,NJ,(973) 265-0057
+64,A,John  DiMaio ,R,23,Bridgewater,NJ,(908) 722-1365
+65,A," Patrick J. Diegnan, Jr. ",D,18,South Plainfield,NJ,(908) 757-1677
+66,A,Joseph V. Egan ,D,17,New Brunswick,NJ,(732) 249-4550
+67,A,Tim Eustace,D,38,Paramus,NJ,(201) 576-9199
+68,A,Samuel L. Fiocchi ,R,1,Vineland,NJ,(856) 457-5504
+69,A,Angel  Fuentes ,D,5,Audubon,NJ,(856) 547-4800
+70,A,Carmelo G. Garcia ,D,33,Hoboken,NJ,(201) 714-4960
+71,A,Thomas P. Giblin ,D,34,Clifton,NJ,(973) 779-3125
+72,A,DiAnne C. Gove,R,9,Forked River,NJ,(609) 693-6700
+73,A,Jerry  Green,D,22,Plainfield,NJ,(908) 561-5757
+74,A,Louis D. Greenwald,D,6,Voorhees,NJ,(856) 435-1247
+75,A,Reed  Gusciora,D,15,Trenton,NJ,(609) 571-9638
+76,A,Amy H. Handlin,R,13,Red Bank,NJ,(732) 383-7820
+77,A,Jamel C. Holley,D,20,Union,NJ,(908) 624-0880
+78,A,Mila M. Jasey,D,27,Maplewood,NJ,(973) 762-1886
+79,A,Angelica M. Jimenez,D,32,West New York,NJ,(201) 223-4247
+80,A,Gordon M. Johnson,D,37,Teaneck,NJ,(201) 530-0469
+81,A,Sean T. Kean,R,30,Wall Township,NJ,(732) 974-0400
+82,A,Joseph A. Lagana,D,38,Paramus,NJ,(201) 576-9199
+83,A,Pamela R. Lampitt,D,6,Voorhees,NJ,(856) 435-1247
+84,A,Charles  Mainor,D,31,Jersey City,NJ,(201) 536-7851
+85,A,Vincent  Mazzeo,D,2,Northfield,NJ,(609) 383-1388
+86,A,Gregory P. McGuckin,R,10,Brick,NJ,(732) 840-9028
+87,A,Alison Littell McHose,R,24,Sparta,NJ,(973) 300-0200
+88,A,John F. McKeon,D,27,Madison,NJ,(973) 377-1606
+89,A,Paul D. Moriarty,D,4,Turnersville,NJ,(856) 232-6700
+90,A,Gabriela M. Mosquera,D,4,Turnersville,NJ,(856) 232-6700
+91,A,Raj  Mukherji,D,33,Jersey City,NJ,(201) 626-4000
+92,A,Nancy F. Munoz,R,21,Summit,NJ,(908) 918-0414
+93,A,Elizabeth Maher Muoio,D,15,Trenton,NJ,(609) 571-9638
+94,A,Jason  O'Donnell,D,31,Bayonne,NJ,(201) 436-0961
+95,A,"Declan J. O'Scanlon, Jr.",R,13,Red Bank,NJ,(732) 933-1591
+96,A,Sheila Y. Oliver,D,34,East Orange,NJ,(973) 395-1166
+97,A,Erik  Peterson,R,23,Clinton,NJ,(908) 238-0251
+98,A,Nancy J. Pinkin,D,18,Edison,NJ,(732) 548-1406
+99,A,Eliana  Pintor Marin,D,29,Newark,NJ,(973) 589-0713
+100,A,Vincent  Prieto,D,32,Secaucus,NJ,(201) 770-1303
+101,A,Annette  Quijano,D,20,Elizabeth,NJ,(908) 327-9119
+102,A,David P. Rible,R,30,Wall Township,NJ,(732) 974-0400
+103,A,Maria  Rodriguez-Gregg,R,8,Medford,NJ,(609) 654-1498
+104,A,Scott T. Rumana,R,40,Wayne,NJ,(973) 237-1362
+105,A,Brian E. Rumpf,R,9,Forked River,NJ,(609) 693-6700
+106,A,David C. Russo,R,40,Midland Park,NJ,(201) 444-9719
+107,A,Gary S. Schaer,D,36,Passaic,NJ,(973) 249-3665
+108,A,Holly  Schepisi ,R,39,Westwood,NJ,(201) 666-0881
+109,A,Donna M. Simon,R,16,Flemington,NJ,(908) 968-3304
+110,A,Troy  Singleton,D,7,Mount Laurel,NJ,(856) 234-2790
+111,A,Parker  Space,R,24,Sparta,NJ,(973) 300-0200
+112,A,L. Grace Spencer,D,29,Newark,NJ,(973) 624-1730
+113,A,Linda  Stender,D,22,Scotch Plains,NJ,(908) 668-1900
+114,A,Shavonda E. Sumter,D,35,Paterson,NJ,(973) 925-7061
+115,A,Adam J. Taliaferro,D,3,Salem,NJ,(856) 339-0808
+116,A,Cleopatra G. Tucker,D,28,Newark,NJ,(973) 926-4320
+117,A,Valerie  Vainieri Huttle,D,37,Englewood,NJ,(201) 541-1118
+118,A,Jay  Webber,R,26,Parsippany,NJ,(973) 265-0057
+119,A,Gilbert L. Wilson,D,5,Audubon,NJ,(856) 547-4800
+120,A,Benjie E. Wimberly,D,35,Paterson,NJ,(973) 925-7061
+121,A,John S. Wisniewski,D,19,Sayreville,NJ,(732) 432-8460
+122,A,David W. Wolfe,R,10,Brick,NJ,(732) 840-9028

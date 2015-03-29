@@ -1,0 +1,12 @@
+#main {
+    width: 600px;
+    margin: 40px auto;
+}
+
+.politician-info, .vote-info {
+    margin-top: 20px;
+}
+
+table td {
+    padding: 3px;
+}
